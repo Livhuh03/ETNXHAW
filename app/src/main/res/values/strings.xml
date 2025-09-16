@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Empowering the Nation</string>
+    <string name="title_activity_six_month_courses">SixMonthCoursesActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_short_courses">ShortCoursesActivity</string>
+    <string name="title_activity_six_month">SixMonthActivity</string>
+    <string name="title_activity_first_aid">FirstAidActivity</string>
+    <string name="title_activity_sewing">SewingActivity</string>
+    <string name="title_activity_landscaping">LandscapingActivity</string>
+    <string name="title_activity_life_skills">LifeSkillsActivity</string>
+    <string name="title_activity_six_week">SixWeekActivity</string>
+    <string name="title_activity_child_minding">ChildMindingActivity</string>
+    <string name="title_activity_cooking">CookingActivity</string>
+    <string name="title_activity_garden_maintenance">GardenMaintenanceActivity</string>
+    <string name="title_activity_place_order">PlaceOrderActivity</string>
+</resources>
